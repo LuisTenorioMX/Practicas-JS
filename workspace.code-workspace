@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "../Curso Básico de Algoritmos y Pensamiento Lógico"
+        },
+        {
+            "path": "../HTML básico y HTML 5 (freeCodeCamp)"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "HTML básico y HTML 5 (freeCodeCamp)"
+    }
+}
